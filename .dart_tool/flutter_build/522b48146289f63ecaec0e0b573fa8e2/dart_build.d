@@ -1,0 +1,1 @@
+ /Users/SACJAPAN/Android_Projects/ninja_app/ninja_app/.dart_tool/flutter_build/522b48146289f63ecaec0e0b573fa8e2/dart_build_result.json: 
